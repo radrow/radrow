@@ -1,6 +1,6 @@
-## Hi, I'm Radek ([@radrow](https://github.com/radrow))
+## Hi, I'm Radek
 
-#### A computer scientist by passion and profession
+### A computer scientist by passion and profession
 
 [![GitHub radrow](https://img.shields.io/github/followers/radrow?label=follow&style=social&cacheSeconds=86400)](https://github.com/radrow)
 [![Linkedin radrow](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/radrow-85ab63b4&cacheSeconds=864000)](https://www.linkedin.com/in/radrow)
