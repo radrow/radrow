@@ -26,7 +26,7 @@
 
 <details>
 <summary>
-  <b>Knowledge</b>
+  <b>IT fields</b>
 </summary>
 
 - Functional programming
