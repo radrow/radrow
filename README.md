@@ -1,4 +1,4 @@
-## Hi, I'm Radek
+## Radosław Rowicki
 
 ### A computer scientist by passion and profession
 
