@@ -4,7 +4,7 @@
 [![Linkedin radrow](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/radrow-85ab63b4&cacheSeconds=864000)](https://www.linkedin.com/in/radrow)
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/4400060)](https://stackoverflow.com/users/4400060/radrow?tab=profile)
 
-Computer scientist by passion and profession. Graduate at the University of Warsaw, master's degree.
+A computer scientist by passion and profession. Graduate at the University of Warsaw, [master's degree](https://github.com/radrow/masters-thesis).
 
 ### Areas
 
