@@ -18,7 +18,7 @@ A computer scientist by passion and profession. Graduate at the University of Wa
 
 - **Advanced:** Haskell
 - **Semi-advanced:** Erlang
-- **Intermediate:** Rust, Python, Prolog, Scala
+- **Intermediate:** C#, Rust, Python, Prolog, Scala
 
 ### Natural lanugages
 
