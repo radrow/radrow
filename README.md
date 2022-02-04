@@ -6,6 +6,9 @@
 
 A computer scientist by passion and profession. Graduate at the University of Warsaw, [master's degree](https://github.com/radrow/masters-thesis).
 
+<details>
+<summary><b>IT skills and qualifications</b></summary>
+  
 ### Areas
 
 - Functional programming
@@ -25,3 +28,32 @@ A computer scientist by passion and profession. Graduate at the University of Wa
 - **Mothertongue:** Polish
 - **Professional:** English
 - **Communicative:** German
+</details>
+
+<details>
+<summary><b>Professional experience</b></summary>
+WIP
+</details>
+
+<details>
+<summary><b>Education</b></summary>
+
+### 2019-2022 University of Warsaw
+
+Master's degree in computer science.
+  
+- Thesis: Liquid types for verification of smart contracts
+- Grade: Very Good (5 in 2-5 scale)
+  
+### 2020-2021 Ludwig Maximilian University of Munich
+
+Student exchange programme
+
+### 2016-2019 University of Warsaw
+
+Bachelor's degree in computer science
+  
+- Thesis: Variational autoencoder for collaborative filtering - implementation and performance optimization
+- Grade: Good (4 in 2-5)
+
+</details>
