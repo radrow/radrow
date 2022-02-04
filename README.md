@@ -7,7 +7,7 @@
 A computer scientist by passion and profession. Graduate at the University of Warsaw, [master's degree](https://github.com/radrow/masters-thesis).
 
 <details>
-<summary><b>IT skills and qualifications</b></summary>
+<summary><b>Skills</b></summary>
   
 ### Areas
 
@@ -32,7 +32,24 @@ A computer scientist by passion and profession. Graduate at the University of Wa
 
 <details>
 <summary><b>Professional experience</b></summary>
-WIP
+
+### 2021-now - Software Engineer at **Microsoft Corporation**
+
+- Developing the server behind Business Central 365
+- Technical customer support
+  
+### 2019-2021 - Erlang Developer at **æternity blockchain**
+
+- Developing a compiler for a smart contract language
+- Developing tooling for smart contract development
+- Developing a virtual machine for smart contracts
+- Giving technical interviews and onboarding new members
+  
+### 2018 - Haskell&Elm Developer Intern at **Vacation Labs**
+  
+- Introduced a new booking infra for the company's services
+- Introduced Elm to the codebase
+
 </details>
 
 <details>
