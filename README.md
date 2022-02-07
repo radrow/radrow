@@ -28,6 +28,8 @@ A computer scientist by passion and profession. Graduate at the University of Wa
 - **Mothertongue:** Polish
 - **Professional:** English
 - **Communicative:** German
+  
+<hr>
 </details>
 
 <details>
@@ -50,6 +52,7 @@ A computer scientist by passion and profession. Graduate at the University of Wa
 - Introduced a new booking infra for the company's services
 - Introduced Elm to the codebase
 
+<hr>
 </details>
 
 <details>
@@ -73,6 +76,7 @@ Bachelor's degree in computer science
 - Thesis: Variational autoencoder for collaborative filtering - implementation and performance optimization
 - Grade: Good (4 in 2-5)
 
+<hr>
 </details>
 
 
@@ -93,5 +97,5 @@ Bachelor's degree in computer science
 - [`Tiny-Semantics`](https://github.com/radrow/Tiny-Semantics) — A simple CPS-styled interpreter of an imperative language written in Haskell.
 - [`instant-compiler`](https://github.com/radrow/instant-compiler) — A calculator-like language compiler that targets LLVM and JVM.
 - [`blockchain-toy`](https://github.com/radrow/blockchain-toy) — A simple centralized blockchain implementation written in Haskell.
-  
+
 </details>
