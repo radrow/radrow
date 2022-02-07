@@ -63,7 +63,7 @@ A computer scientist by passion and profession. Graduate at the University of Wa
 Master's degree in computer science.
   
 - Thesis: Liquid types for verification of smart contracts
-- Grade: Very Good (5 in 2-5 scale)
+- Grade: Very Good (5 in 2–5 scale)
   
 ### 2020–2021 Ludwig Maximilian University of Munich
 
@@ -74,7 +74,7 @@ Student exchange programme
 Bachelor's degree in computer science
   
 - Thesis: Variational autoencoder for collaborative filtering - implementation and performance optimization
-- Grade: Good (4 in 2-5)
+- Grade: Good (4 in 2–5 scale)
 
 <hr>
 </details>
