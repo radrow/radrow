@@ -105,6 +105,6 @@ Bachelor's degree in computer science
 - [`i3hloc`](https://github.com/radrow/i3hloc2) — A customizable, parallelized scheduler for the [`i3status`](i3/i3status) status bar for i3 WM. Written in Haskell.
 - [`fizzbuzz-coq`](https://github.com/radrow/fizzbuzz-coq) — A super defensive joke implementation of the [Fizz Buzz](https://en.wikipedia.org/wiki/Fizz_buzz) problem written as a sophisticated proposal to the [state-of-the-art implementation](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition). Written in Coq to prove correctness of every step of the algorithm. Obfuscation warning. 
 - [`blockchain-toy`](https://github.com/radrow/blockchain-toy) — A simple centralized blockchain implementation written in Haskell.
-- [`Iris`](https://github.com/radrow/Iris) — I provided the Iris Mopidy frontend with Polish localization.
+- [`Iris`](https://github.com/jaedb/Iris) — I provided the Iris Mopidy frontend with Polish localization.
 
 </details>
