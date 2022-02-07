@@ -79,19 +79,19 @@ Bachelor's degree in computer science
 <details>
 <summary><b>Most notable projects</b></summary>
   
-- [`i3hloc`](/i3hloc2) — A customizable, parallelized scheduler for the [`i3status`](i3/i3status) status bar for i3 WM. Written in Haskell.
-- [`radlang`](/radlang) — An interpreter of a Haskell-like language. Supports type classes, full type inference, higher kinded types, `for` notation for monads and lazy evaluation.
-- [`fizzbuzz-coq`](/fizzbuzz-coq) — A super defensive joke implementation of the [Fizz Buzz](https://en.wikipedia.org/wiki/Fizz_buzz) problem written as a sophisticated proposal to the [state-of-the-art implementation](github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition). Written in Coq to prove correctness of every step of the algorithm. Obfuscation warning. 
-- [`aesophia`](/aesophia) — I took part in development of the Sophia language for the [æternity blockchain](aeternity.com) smart contract development.
-- [`aerepl`](github.com//aeternity/aerepl) — A Read-Eval-Print Loop for the Sophia language.
-- [`erlscripten`](github.com/erlscripten/erlscripten) — I took key part in the erlscripten project, which aims to port Erlang applications to the frontend by transpiling it into [PureScript](https://www.purescript.org/).
-- [`erlscripten/purescript`](github.com/erlscripten/purescript) — For the erlscripten project I did a lot of tinkering in the source generator and optimizer of PureScript. My work resulted in a few contributions to the original project.
-- [`satisfaction`](/satisfaction) — A SAT solver implementing CDCL and DPLL algorithms written in Rust as an assessment task for courses at LMU. 
-- [`tftp-client-coq`](/tftp-client-coq) — A TFTP client written in Coq/OCaml. Provides proofs for compliance with the RFC standard.
-- [`latte`](/latte) — An x86 compiler for a Java-like OOP language. Implements class inheritance, polymorphism via virtual methods and some simple optimization techniques.
-- [`Iris`](/Iris) — I provided the Iris Mopidy frontend with Polish localization.
-- [`Tiny-Semantics`](/Tiny-Semantics) — A simple CPS-styled interpreter of an imperative language written in Haskell.
-- [`instant-compiler`](/instant-compiler) — A calculator-like language compiler that targets LLVM and JVM.
-- [`blockchain-toy`](/blockchain-toy) — A simple centralized blockchain implementation written in Haskell.
+- [`i3hloc`](https://github.com/radrow/i3hloc2) — A customizable, parallelized scheduler for the [`i3status`](i3/i3status) status bar for i3 WM. Written in Haskell.
+- [`radlang`](https://github.com/radrow/radlang) — An interpreter of a Haskell-like language. Supports type classes, full type inference, higher kinded types, `for` notation for monads and lazy evaluation.
+- [`fizzbuzz-coq`](https://github.com/radrow/fizzbuzz-coq) — A super defensive joke implementation of the [Fizz Buzz](https://en.wikipedia.org/wiki/Fizz_buzz) problem written as a sophisticated proposal to the [state-of-the-art implementation](github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition). Written in Coq to prove correctness of every step of the algorithm. Obfuscation warning. 
+- [`aesophia`](https://github.com/aeternity/aesophia) — I took part in development of the Sophia language for the [æternity blockchain](aeternity.com) smart contract development.
+- [`aerepl`](https://github.com//aeternity/aerepl) — A Read-Eval-Print Loop for the Sophia language.
+- [`erlscripten`](https://github.com/erlscripten/erlscripten) — I took key part in the erlscripten project, which aims to port Erlang applications to the frontend by transpiling it into [PureScript](https://www.purescript.org/).
+- [`erlscripten/purescript`](https://github.com/erlscripten/purescript) — For the erlscripten project I did a lot of tinkering in the source generator and optimizer of PureScript. My work resulted in a few contributions to the original project.
+- [`satisfaction`](https://github.com/radrow/satisfaction) — A SAT solver implementing CDCL and DPLL algorithms written in Rust as an assessment task for courses at LMU. 
+- [`tftp-client-coq`](https://github.com/radrow/tftp-client-coq) — A TFTP client written in Coq/OCaml. Provides proofs for compliance with the RFC standard.
+- [`latte`](https://github.com/radrow/latte) — An x86 compiler for a Java-like OOP language. Implements class inheritance, polymorphism via virtual methods and some simple optimization techniques.
+- [`Iris`](https://github.com/radrow/Iris) — I provided the Iris Mopidy frontend with Polish localization.
+- [`Tiny-Semantics`](https://github.com/radrow/Tiny-Semantics) — A simple CPS-styled interpreter of an imperative language written in Haskell.
+- [`instant-compiler`](https://github.com/radrow/instant-compiler) — A calculator-like language compiler that targets LLVM and JVM.
+- [`blockchain-toy`](https://github.com/radrow/blockchain-toy) — A simple centralized blockchain implementation written in Haskell.
   
 </details>
