@@ -95,7 +95,7 @@ Bachelor's degree in computer science
 - [`radlang`](https://github.com/radrow/radlang) — An interpreter of a Haskell-like language. Supports type classes, full type inference, higher kinded types, `for` notation for monads and lazy evaluation.
 - [`latte`](https://github.com/radrow/latte) — An x86 compiler for a Java-like OOP language. Implements class inheritance, polymorphism via virtual methods and some simple optimization techniques.
 - [`satisfaction`](https://github.com/radrow/satisfaction) — A SAT solver implementing CDCL and DPLL algorithms written in Rust as an assessment task for courses at LMU. 
-- [`VAE-CF`](https://github.com/mkfilipiuk/VAE-CF) — Bachelor's thesis project. A variational autoencoder for collaborative filtering written in [Tensorflow] (https://www.tensorflow.org/). Created in cooperation with NVIDIA Corporation to optimize it for their hardware and infrastructure.
+- [`VAE-CF`](https://github.com/mkfilipiuk/VAE-CF) — Bachelor's thesis project. A variational autoencoder for collaborative filtering written in [Tensorflow](https://www.tensorflow.org/). Created in cooperation with NVIDIA Corporation to optimize it for their hardware and infrastructure.
 - [`tftp-client-coq`](https://github.com/radrow/tftp-client-coq) — A TFTP client written in Coq/OCaml. Provides proofs for compliance with the RFC standard.
 - [`Tiny-Semantics`](https://github.com/radrow/Tiny-Semantics) — A simple CPS-styled interpreter of an imperative language written in Haskell.
 - [`instant-compiler`](https://github.com/radrow/instant-compiler) — A calculator-like language compiler that targets LLVM and JVM.
