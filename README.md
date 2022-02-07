@@ -35,19 +35,19 @@ A computer scientist by passion and profession. Graduate at the University of Wa
 <details>
 <summary><b>Professional experience</b></summary>
 
-### 2021-now - Software Engineer at **Microsoft Corporation**
+### 2021-now — Software Engineer at **Microsoft Corporation**
 
 - Developing the server behind Business Central 365
 - Technical customer support
   
-### 2019-2021 - Erlang Developer at **æternity blockchain**
+### 2019-2021 — Erlang Developer at **æternity blockchain**
 
 - Developing a compiler for a smart contract language
 - Developing tooling for smart contract development
 - Developing a virtual machine for smart contracts
 - Giving technical interviews and onboarding new members
   
-### 2018 - Haskell&Elm Developer Intern at **Vacation Labs**
+### 2018 — Haskell&Elm Developer Intern at **Vacation Labs**
   
 - Introduced a new booking infra for the company's services
 - Introduced Elm to the codebase
@@ -58,18 +58,18 @@ A computer scientist by passion and profession. Graduate at the University of Wa
 <details>
 <summary><b>Education</b></summary>
 
-### 2019-2022 University of Warsaw
+### 2019–2022 University of Warsaw
 
 Master's degree in computer science.
   
 - Thesis: Liquid types for verification of smart contracts
 - Grade: Very Good (5 in 2-5 scale)
   
-### 2020-2021 Ludwig Maximilian University of Munich
+### 2020–2021 Ludwig Maximilian University of Munich
 
 Student exchange programme
 
-### 2016-2019 University of Warsaw
+### 2016–2019 University of Warsaw
 
 Bachelor's degree in computer science
   
