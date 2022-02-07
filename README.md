@@ -74,3 +74,24 @@ Bachelor's degree in computer science
 - Grade: Good (4 in 2-5)
 
 </details>
+
+
+<details>
+<summary><b>Most notable projects</b></summary>
+  
+- [`i3hloc`](/radrow/i3hloc2) — A customizable, parallelized scheduler for the [`i3status`](i3/i3status) status bar for i3 WM. Written in Haskell.
+- [`radlang`](/radrow/radlang) — An interpreter of a Haskell-like language. Supports type classes, full type inference, higher kinded types, `for` notation for monads and lazy evaluation.
+- [`fizzbuzz-coq`](/radrow/fizzbuzz-coq) — A super defensive joke implementation of the [Fizz Buzz](https://en.wikipedia.org/wiki/Fizz_buzz) problem written as a sophisticated proposal to the [state-of-the-art implementation](EnterpriseQualityCoding/FizzBuzzEnterpriseEdition). Written in Coq to prove correctness of every step of the algorithm. Obfuscation warning. 
+- [`aesophia`](/radrow/aesophia) — I took part in development of the Sophia language for the [æternity blockchain](aeternity.com) smart contract development.
+- [`aerepl`](/aeternity/aerepl) — A Read-Eval-Print Loop for the Sophia language.
+- [`erlscripten`](/erlscripten/erlscripten) — I took key part in the erlscripten project, which aims to port Erlang applications to the frontend by transpiling it into [PureScript](https://www.purescript.org/).
+- [`erlscripten/purescript`](erlscripten/purescript) — For the erlscripten project I did a lot of tinkering in the source generator and optimizer of PureScript. My work resulted in a few contributions to the original project.
+- [`satisfaction`](/radrow/satisfaction) — A SAT solver implementing CDCL and DPLL algorithms written in Rust as an assessment task for courses at LMU. 
+- [`tftp-client-coq`](/radrow/tftp-client-coq) — A TFTP client written in Coq/OCaml. Provides proofs for compliance with the RFC standard.
+- [`latte`](/radrow/latte) — An x86 compiler for a Java-like OOP language. Implements class inheritance, polymorphism via virtual methods and some simple optimization techniques.
+- [`Iris`](/radrow/Iris) — I provided the Iris Mopidy frontend with Polish localization.
+- [`Tiny-Semantics`](/radrow/Tiny-Semantics) — A simple CPS-styled interpreter of an imperative language written in Haskell.
+- [`instant-compiler`](/radrow/instant-compiler) — A calculator-like language compiler that targets LLVM and JVM.
+- [`blockchain-toy`](/radrow/blockchain-toy) — A simple centralized blockchain implementation written in Haskell.
+  
+</details>
