@@ -35,12 +35,12 @@ A computer scientist by passion and profession. Graduate at the University of Wa
 <details>
 <summary><b>Professional experience</b></summary>
 
-### 2021-now — Software Engineer at **Microsoft Corporation**
+### 2021–now — Software Engineer at **Microsoft Corporation**
 
 - Developing the server behind Business Central 365
 - Technical customer support
   
-### 2019-2021 — Erlang Developer at **æternity blockchain**
+### 2019–2021 — Erlang Developer at **æternity blockchain**
 
 - Developing a compiler for a smart contract language
 - Developing tooling for smart contract development
