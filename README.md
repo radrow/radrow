@@ -23,7 +23,7 @@ A computer scientist by passion and profession. Graduate at the University of Wa
 - **Semi-advanced:** Erlang
 - **Intermediate:** C#, Rust, Python, Prolog, Scala
 
-### Natural lanugages
+### Natural languages
 
 - **Mothertongue:** Polish
 - **Professional:** English
