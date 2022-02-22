@@ -65,7 +65,7 @@ A computer scientist by passion and profession. Graduate at the University of Wa
 
 Master's degree in computer science.
   
-- Thesis: Liquid types for verification of smart contracts
+- Thesis: [Liquid types for verification of smart contracts](https://students.mimuw.edu.pl/~radrow/master.pdf)
 - Grade: Very Good (5 in a 2–5 scale)
   
 ### 2020–2021 Ludwig Maximilian University of Munich
@@ -76,7 +76,7 @@ Student exchange programme
 
 Bachelor's degree in computer science
   
-- Thesis: Variational autoencoder for collaborative filtering - implementation and performance optimization
+- Thesis: [Variational autoencoder for collaborative filtering - implementation and performance optimization](https://students.mimuw.edu.pl/~radrow/bachelor.pdf)
 - Grade: Good (4 in a 2–5 scale)
 
 <hr>
