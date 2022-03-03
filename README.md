@@ -50,7 +50,7 @@ A computer scientist by passion and profession. Graduate at the University of Wa
 - Developing a virtual machine for smart contracts
 - Giving technical interviews and onboarding new members
   
-### 2018 — Haskell&Elm Developer Intern at **Vacation Labs**
+### 2018 — Haskell & Elm Developer Intern at **Vacation Labs**
   
 - Introduced a new booking infra for the company's services
 - Introduced Elm to the codebase
