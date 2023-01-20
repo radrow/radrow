@@ -38,17 +38,22 @@ A computer scientist by passion and profession. Graduate at the University of Wa
 <details>
 <summary><b>Professional experience</b></summary>
 
-### 2021–now — Software Engineer at **Microsoft Corporation**
+### 2023–present — PhD Student at **DTU Compute**
 
-- Developing the server behind Business Central 365
-- Technical customer support
+- Researching methods for verification of distributed systems
+- Teaching assistance in computer science master's courses
   
-### 2019–2021 — Erlang Developer at **æternity blockchain**
+### 2019–present — Erlang Developer at **æternity blockchain**
 
 - Developing a compiler for a smart contract language
 - Developing tooling for smart contract development
 - Developing a virtual machine for smart contracts
-- Giving technical interviews and onboarding new members
+- Conducting technical interviews and onboarding new members
+  
+### 2021–2022 — Software Engineer at **Microsoft Corporation**
+
+- Developed the server behind Business Central 365
+- Maintained site reliability
   
 ### 2018 — Haskell & Elm Developer Intern at **Vacation Labs**
   
@@ -60,6 +65,10 @@ A computer scientist by passion and profession. Graduate at the University of Wa
 
 <details>
 <summary><b>Education</b></summary>
+
+### 2023–2026 (est.) Technical University of Denmark
+
+- Research project: "Hyben - Hybrid Verification of Heterogeneous Message-Passing Applications"
 
 ### 2019–2022 University of Warsaw
 
