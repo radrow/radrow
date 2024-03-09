@@ -15,21 +15,21 @@ A computer scientist by passion and profession. Graduate at the University of Wa
 ### Areas
 
 - Functional programming
-- Compilers construction
+- Compiler construction
 - Type theory
 - Blockchain
-- Machine learning
+- Formal verification
 
 ### Technologies & lanugages
 
-- **Advanced:** Haskell
-- **Semi-advanced:** Erlang, C#
-- **Intermediate:** Rust, Python, Prolog, Scala
+- **Advanced:** Haskell, Erlang
+- **Semi-advanced:** C#, Rust
+- **Intermediate:** Python, Prolog, Coq
 
 ### Natural languages
 
 - **Mothertongue:** Polish
-- **Professional:** English
+- **Fluent:** English
 - **Communicative:** German
   
 <hr>
