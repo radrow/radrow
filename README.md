@@ -22,9 +22,9 @@ A computer scientist by passion and profession. Graduate at the University of Wa
 
 ### Technologies & lanugages
 
-- **Advanced:** Haskell, Erlang
+- **Advanced:** Haskell, Erlang, Coq
 - **Semi-advanced:** C#, Rust
-- **Intermediate:** Python, Prolog, Coq
+- **Intermediate:** Python, Prolog
 
 ### Natural languages
 
