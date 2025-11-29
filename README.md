@@ -69,6 +69,9 @@ A computer scientist by passion and profession. Graduate at the University of Wa
 ### 2023–2026 (est.) Technical University of Denmark
 
 - Research project: "Hyben - Hybrid Verification of Heterogeneous Message-Passing Applications"
+- Formalised methods of distributed deadlock detection via black-box monitors
+- Mechanised theoretical results in [Rocq](https://github.com/radrow/dlstalk-coq)
+- Implemented tools for deadlock detection in gen_server-based systems: [DDMon](https://github.com/radrow/ddmon) and [DDTrace](https://github.com/radrow/ddtrace)
 
 ### 2019–2022 University of Warsaw
 
@@ -95,13 +98,24 @@ Bachelor's degree in computer science
 <details>
 <summary><b>Selected projects</b></summary>
 
+### PhD related
+
+- [`ddmon`](https://github.com/radrow/ddmon) — A prototype tool for distributed deadlock detection in Erlang/Elixir systems based on the `gen_server` behaviour. Implemented as *black-box proxy monitors*. Works as a drop-in replacement for the `gen_server` module.
+- [`ddtrace`](https://github.com/radrow/ddtrace) — Another distributed deadlock detecting tool for generic servers in Erlang, but this time based on *observing monitors* that do not require any intervention in the code of the monitored process. Instead, uses built-in `trace` facility to make deadlock verdicts based solely on incoming and outgoing communication.
+- [`dlstalk`](https://github.com/radrow/dlstalk-coq) — Fully mechanised formalisation of a deadlock detecting algorithm via proxy monitors. Specifies syntax and semantics of monitored and unmonitored services and networks and proves transparency and preciseness of deadlock verdicts. [`ddmon`](https://github.com/radrow/ddmon) is the implementation of this model.
+
 ### Work related
 
-- [`aesophia`](https://github.com/aeternity/aesophia) — I took part in development of the Sophia language for the [æternity blockchain](aeternity.com) smart contract development.
-- [`aerepl`](https://github.com//aeternity/aerepl) — A Read-Eval-Print Loop for the Sophia language.
-- [`erlscripten`](https://github.com/erlscripten/erlscripten) — I took key part in the erlscripten project, which aims to port Erlang applications to the frontend by transpiling it into [PureScript](https://www.purescript.org/).
-- [`erlscripten/purescript`](https://github.com/erlscripten/purescript) — For the erlscripten project I did a lot of tinkering in the source generator and optimizer of PureScript. My work resulted in a few contributions to the original project.
-  
+- [`aesophia`](https://github.com/aeternity/aesophia) — I developed the Sophia smart contract language for the [æternity blockchain](aeternity.com).
+- [`aerepl`](https://github.com//aeternity/aerepl) — I designed and implemented a Read-Eval-Print Loop and debugger for the Sophia language.
+- [`aerepl-web`](https://github.com//aeternity/aerepl-web) — Web interface for æREPL implemented by me.
+- [`aeserialization-rust`](https://github.com/aeternity/aeserialization-rust/) — I rewrote core components of the æternity blockchain in Rust.
+- [`tree-sitter-aesophia`](https://github.com/aeternity/tree-sitter-aesophia/) — I implemented a [Tree-sitter](https://tree-sitter.github.io/tree-sit) grammar for æternity's smart contract language.
+- [`erlscripten`](https://github.com/erlscripten/erlscripten) — I took key part in the erlscripten project, which aims to port Erlang applications to the frontend of web applications by transpiling it into [PureScript](https://www.purescript.org/).
+- [`erlscripten/purescript`](https://github.com/erlscripten/purescript) — For the erlscripten project I did a lot of tinkering in the source generator and optimizer of PureScript's compiler. My work resulted in a few contributions to the original project:
+  - [#4006](https://github.com/purescript/purescript/pull/4006) — I identified and fixed a performance issue in one of PureScript's AST transformations. 
+  - [#3968](https://github.com/purescript/purescript/pull/3968) — I proposed changes to how tail-call optimizations are triggered (unmerged).
+
 ### University related
 
 - [`radlang`](https://github.com/radrow/radlang) — An interpreter of a Haskell-like language. Supports type classes, full type inference, higher kinded types, `for` notation for monads and lazy evaluation.
