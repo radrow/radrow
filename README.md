@@ -66,7 +66,7 @@ A computer scientist by passion and profession. PhD in Computer Science at [DTU 
 <details>
 <summary><b>Education</b></summary>
 
-### 2023–2026 (est.) Technical University of Denmark
+### 2023–2026 Technical University of Denmark
 
 - Research project: "Hyben - Hybrid Verification of Heterogeneous Message-Passing Applications"
 - Formalised methods of distributed deadlock detection via black-box monitors
